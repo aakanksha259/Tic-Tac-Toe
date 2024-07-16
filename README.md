@@ -3,7 +3,7 @@ Hey Everyone!
 This is a tic-tac-toe game developed using HTML,CSS and JavaScript.
 
 # How to play
-1. Start playing by clicking <a href="https://manishmadan2882.github.io/TicTacToe-game/">here</a>.
+1. Start playing.
 2. Click on the grid to place your X or O.
 3. The first player is X and the second player is O.
 4. The game will automatically switch turns between X(User) and O.
